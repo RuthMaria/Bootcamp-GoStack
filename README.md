@@ -1,2 +1,2 @@
-# Bootcamp-GoStack
-Repository with all the challenges of the rocketseat GoStack bootcamp
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
+
