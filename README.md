@@ -42,16 +42,19 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 <a id="challenges"></a><br>
 
-## 🎯 Challenge
+## 🎯 Challenges
 
 <br>
 
-### 🗃️ Back-end concepts
+#### 🗃️ Node.js concepts
 
 [Desafio 01](https://github.com/RuthMaria/gostack-nodeJs-concepts) - Back-end challenge to improve the Node.js concepts: HTTP methods, parameter types, HTTP code and middlewares.<br><br>
 
 
-### 🎨 Front-end concepts
+#### 🎨 React.js concepts
+
+#### 📱 React Native concepts
+
 
 
 <a id="license"></a><br>
