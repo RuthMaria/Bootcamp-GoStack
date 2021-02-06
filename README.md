@@ -23,11 +23,7 @@
 
 ## :books: About
 
-<p align="justify">
-
 GoStack is an online, practical and intensive bootcamp training. In GoStack the student goes deep into the technologies: NodeJS, ReactJS and React Native, and the entire ecosystem around these tools, from zero to deploy, including automated tests, continuous integration, publishing in stores, and all the important libraries and frameworks for who wants to be ready for the challenges of the real world and stand out in the job market.
-
-</p>
 
 <a id="technologies"></a><br>
 
@@ -46,16 +42,17 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 <br>
 
-#### 🗃️ Node.js concepts
+### 🗃️ Node.js concepts
 
-[Desafio 01](https://github.com/RuthMaria/gostack-nodeJs-concepts) - Back-end challenge to improve the Node.js concepts: HTTP methods, parameter types, HTTP code and middlewares.<br><br>
+- [Desafio 01](https://github.com/RuthMaria/gostack-nodeJs-concepts) - Back-end challenge to improve the Node.js concepts: HTTP methods, parameter types, HTTP code and middlewares.<br><br>
 
+### 🎨 React.js concepts
 
-#### 🎨 React.js concepts
+- [Desafio 02](https://github.com/RuthMaria/gostack-reactJs-concepts) - Front-end challenge to improve the React.js concepts: babel, webpack, components, property, state and immutability. <br><br>
 
-#### 📱 React Native concepts
+### 📱 React Native concepts
 
-
+- [Desafio 03](https://github.com/RuthMaria/gostack-reactNative-concepts) - 
 
 <a id="license"></a><br>
 
