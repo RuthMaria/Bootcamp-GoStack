@@ -1,6 +1,8 @@
-<p align="center">
-  <img  src="./assets/logo.jpg" width="500px">
-</p>
+<h1 align="center">
+  <a href="https://github.com/csorlandi/nodejs-concepts">
+    <img alt="Logo NodeJS" src="./assets/logo1.png" width="500px" />
+  </a>
+</h1>
 
 
 <p align="center">
@@ -44,15 +46,15 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 ### 🗃️ Node.js concepts
 
-- [Desafio 01](https://github.com/RuthMaria/gostack-nodeJs-concepts) - Back-end challenge to improve the Node.js concepts: HTTP methods, parameter types, HTTP code and middlewares.<br><br>
+[Back-end challenge](https://github.com/RuthMaria/gostack-nodeJs-concepts) to improve the Node.js concepts: HTTP methods, parameter types, HTTP code and middlewares.<br><br>
 
 ### 🎨 React.js concepts
 
-- [Desafio 02](https://github.com/RuthMaria/gostack-reactJs-concepts) - Front-end challenge to improve the React.js concepts: babel, webpack, components, property, state and immutability. <br><br>
+[Front-end challenge](https://github.com/RuthMaria/gostack-reactJs-concepts) to improve the React.js concepts: babel, webpack, components, property, state and immutability. <br><br>
 
 ### 📱 React Native concepts
 
-- [Desafio 03](https://github.com/RuthMaria/gostack-reactNative-concepts) - 
+[Mobile challenge](https://github.com/RuthMaria/gostack-reactNative-concepts) 
 
 <a id="license"></a><br>
 
