@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/csorlandi/nodejs-concepts">
-    <img alt="Logo NodeJS" src="./assets/logo1.png" width="500px" />
+    <img alt="Logo NodeJS" src="./assets/logo.png" width="400px" />
   </a>
 </h1>
 
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" /> 
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04d361&labelColor=000000" alt="PRs welcome!" /> 
 
-  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-blueviolet">
+  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-%2304D361">
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=04d361&labelColor=000000">
 </p>
 
 
@@ -46,11 +46,11 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 ### 🗃️ Node.js concepts
 
-[Back-end challenge](https://github.com/RuthMaria/gostack-nodeJs-concepts) to improve the Node.js concepts: HTTP methods, parameter types, HTTP code and middlewares.<br><br>
+[Back-end challenge](https://github.com/RuthMaria/gostack-nodeJs-concepts)
 
 ### 🎨 React.js concepts
 
-[Front-end challenge](https://github.com/RuthMaria/gostack-reactJs-concepts) to improve the React.js concepts: babel, webpack, components, property, state and immutability. <br><br>
+[Front-end challenge](https://github.com/RuthMaria/gostack-reactJs-concepts) 
 
 ### 📱 React Native concepts
 
