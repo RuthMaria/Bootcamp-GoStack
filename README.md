@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/csorlandi/nodejs-concepts">
-    <img alt="Logo NodeJS" src="./assets/logo.png" width="400px" />
+    <img alt="Logo NodeJS" src="./assets/logo.png" width="350px" />
   </a>
 </h1>
 
@@ -30,12 +30,13 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 <a id="technologies"></a><br>
 
 ## ⚒️ Technologies Used
- * HTML5
- * CSS3
- * Typescript
+
  * Node.js
  * ReactJS
  * React Native
+ * Typescript
+ * HTML5
+ * CSS3
  
 
 <a id="challenges"></a><br>
@@ -55,6 +56,10 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 ### 📱 React Native concepts
 
 [Mobile challenge](https://github.com/RuthMaria/gostack-reactNative-concepts) 
+
+### 📱 TypeScript concepts
+
+[Concepts challenge](https://github.com/RuthMaria/gostack-typescript-concepts) 
 
 <a id="license"></a><br>
 
