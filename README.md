@@ -71,16 +71,16 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 ### :bearded_person: GoBarber
 
-[Back-end](https://github.com/RuthMaria/GoBarber-backend) 
-[Front-end](https://github.com/RuthMaria/GoBarber-frontend) 
-[Mobile](https://github.com/RuthMaria/GoBarber-mobile) 
+* [Back-end](https://github.com/RuthMaria/GoBarber-backend) 
+* [Front-end](https://github.com/RuthMaria/GoBarber-frontend) 
+* [Mobile](https://github.com/RuthMaria/GoBarber-mobile) 
 
 
 ### :man_cook: GoRestaurant
 
-[Back-end](https://github.com/RuthMaria/GoRestaurant-backend) 
-[Front-end](https://github.com/RuthMaria/GoRestaurant-frontend) 
-[Mobile](https://github.com/RuthMaria/GoRestaurant-mobile) 
+* [Back-end](https://github.com/RuthMaria/GoRestaurant-backend) 
+* [Front-end](https://github.com/RuthMaria/GoRestaurant-frontend) 
+* [Mobile](https://github.com/RuthMaria/GoRestaurant-mobile) 
 
 
 <a id="license"></a><br>
