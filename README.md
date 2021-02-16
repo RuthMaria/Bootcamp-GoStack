@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/csorlandi/nodejs-concepts">
-    <img alt="Logo NodeJS" src="./assets/logo.png" width="350px" />
+    <img alt="Logo goStack" src="./assets/logo.png" width="350px" />
   </a>
 </h1>
 
@@ -35,6 +35,10 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
  * ReactJS
  * React Native
  * Typescript
+ * Postgres
+ * Docker
+ * TypeORM
+ * JWT
  * HTML5
  * CSS3
  
@@ -57,9 +61,27 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 [Mobile challenge](https://github.com/RuthMaria/gostack-reactNative-concepts) 
 
-### 📱 TypeScript concepts
+### :star2: TypeScript concepts
 
 [Concepts challenge](https://github.com/RuthMaria/gostack-typescript-concepts) 
+
+### :rocket: Node.js fundamentals
+
+[Fundamentals challenge](https://github.com/RuthMaria/gostack-node-fundamentals)
+
+### :bearded_person: GoBarber
+
+[Back-end](https://github.com/RuthMaria/GoBarber-backend) 
+[Front-end](https://github.com/RuthMaria/GoBarber-frontend) 
+[Mobile](https://github.com/RuthMaria/GoBarber-mobile) 
+
+
+### :man_cook: GoRestaurant
+
+[Back-end](https://github.com/RuthMaria/GoRestaurant-backend) 
+[Front-end](https://github.com/RuthMaria/GoRestaurant-frontend) 
+[Mobile](https://github.com/RuthMaria/GoRestaurant-mobile) 
+
 
 <a id="license"></a><br>
 
