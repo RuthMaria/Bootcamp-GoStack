@@ -51,23 +51,23 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 ### :small_orange_diamond: Conceptos
 
-- [🗃️ Node.js](https://github.com/RuthMaria/gostack-nodeJs-concepts)
+- [Node.js](https://github.com/RuthMaria/gostack-nodeJs-concepts)
 
-- [🎨 React.js](https://github.com/RuthMaria/gostack-reactJs-concepts) 
+- [React.js](https://github.com/RuthMaria/gostack-reactJs-concepts) 
 
-- [📱 React Native](https://github.com/RuthMaria/gostack-reactNative-concepts) 
+- [React Native](https://github.com/RuthMaria/gostack-reactNative-concepts) 
 
-- [:star2: TypeScript](https://github.com/RuthMaria/gostack-typescript-concepts) 
+- [TypeScript](https://github.com/RuthMaria/gostack-typescript-concepts) 
 
 <br>
 
 ### :small_orange_diamond: Fundamentals
 
-- [🗃️ Node.js](https://github.com/RuthMaria/gostack-node-fundamentals)
+- [Node.js](https://github.com/RuthMaria/gostack-node-fundamentals)
 
-- [🎨 React.js](https://github.com/RuthMaria/gostack-react-fundamentals)
+- [React.js](https://github.com/RuthMaria/gostack-react-fundamentals)
 
-- [📱 React Native](https://github.com/RuthMaria/gostack-reactNative-fundamentals)
+- [React Native](https://github.com/RuthMaria/gostack-reactNative-fundamentals)
 
 <br>
 
