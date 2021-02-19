@@ -45,11 +45,11 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 <a id="challenges"></a><br>
 
-### 🎯 Challenges
+## 🎯 Challenges
 
 <br>
 
-#### :small_orange_diamond: Conceptos
+### :small_orange_diamond: Conceptos
 
 - [🗃️ Node.js](https://github.com/RuthMaria/gostack-nodeJs-concepts)
 
@@ -61,7 +61,7 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 <br>
 
-#### :small_orange_diamond: Fundamentals
+### :small_orange_diamond: Fundamentals
 
 - [🗃️ Node.js](https://github.com/RuthMaria/gostack-node-fundamentals)
 
@@ -78,6 +78,7 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 * [Mobile](https://github.com/RuthMaria/GoBarber-mobile) 
 
 <br>
+
 ### :man_cook: GoRestaurant
 
 * [Back-end](https://github.com/RuthMaria/GoRestaurant-backend) 
