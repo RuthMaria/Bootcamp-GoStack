@@ -45,29 +45,31 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 <a id="challenges"></a><br>
 
-## 🎯 Challenges
+### 🎯 Challenges
 
 <br>
 
-### 🗃️ Node.js concepts
+#### :small_orange_diamond: Conceptos
 
-[Back-end challenge](https://github.com/RuthMaria/gostack-nodeJs-concepts)
+- [🗃️ Node.js](https://github.com/RuthMaria/gostack-nodeJs-concepts)
 
-### 🎨 React.js concepts
+- [🎨 React.js](https://github.com/RuthMaria/gostack-reactJs-concepts) 
 
-[Front-end challenge](https://github.com/RuthMaria/gostack-reactJs-concepts) 
+- [📱 React Native](https://github.com/RuthMaria/gostack-reactNative-concepts) 
 
-### 📱 React Native concepts
+- [:star2: TypeScript](https://github.com/RuthMaria/gostack-typescript-concepts) 
 
-[Mobile challenge](https://github.com/RuthMaria/gostack-reactNative-concepts) 
+<br>
 
-### :star2: TypeScript concepts
+#### :small_orange_diamond: Fundamentals
 
-[Concepts challenge](https://github.com/RuthMaria/gostack-typescript-concepts) 
+- [🗃️ Node.js](https://github.com/RuthMaria/gostack-node-fundamentals)
 
-### :rocket: Node.js fundamentals
+- [🎨 React.js](https://github.com/RuthMaria/gostack-react-fundamentals)
 
-[Fundamentals challenge](https://github.com/RuthMaria/gostack-node-fundamentals)
+- [📱 React Native](https://github.com/RuthMaria/gostack-reactNative-fundamentals)
+
+<br>
 
 ### :bearded_person: GoBarber
 
@@ -75,7 +77,7 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 * [Front-end](https://github.com/RuthMaria/GoBarber-frontend) 
 * [Mobile](https://github.com/RuthMaria/GoBarber-mobile) 
 
-
+<br>
 ### :man_cook: GoRestaurant
 
 * [Back-end](https://github.com/RuthMaria/GoRestaurant-backend) 
