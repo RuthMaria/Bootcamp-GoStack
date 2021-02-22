@@ -79,12 +79,21 @@ GoStack is an online, practical and intensive bootcamp training. In GoStack the 
 
 <br>
 
+### :abacus: GoFinances
+
+* [Back-end](https://github.com/RuthMaria/GoFinances-backend) 
+* [Front-end](https://github.com/RuthMaria/GoFinances-frontend) 
+* [Mobile](https://github.com/RuthMaria/GoFinances-mobile) 
+
+<br>
+
 ### :man_cook: GoRestaurant
 
 * [Back-end](https://github.com/RuthMaria/GoRestaurant-backend) 
 * [Front-end](https://github.com/RuthMaria/GoRestaurant-frontend) 
 * [Mobile](https://github.com/RuthMaria/GoRestaurant-mobile) 
 
+<br>
 
 <a id="license"></a><br>
 
